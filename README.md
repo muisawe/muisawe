@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![StackOverflow Reputation: 1.21k](https://img.shields.io/badge/StackOverflow-24.5k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/7607589/moumen-alisaweo) 
+[![StackOverflow Reputation: 1.21k](https://img.shields.io/badge/StackOverflow-1.21k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/7607589/moumen-alisaweo) 
 
-You can  Ask me about mobile app development 💬 
-📫 How to reach me: 
+You can  Ask me about mobile app development 💬 <br>
+📫 How to reach me: <br>
 
 <p align="center">
     <a href="https://twitter.com/muisawe"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
