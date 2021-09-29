@@ -18,6 +18,7 @@ PRIMARY SKILLS
 <li>Core Animation graphics compositing framework</li>
 <li>Networking utilizing URLSession and Alamofire</li>
 <li>Location services utilizing Core Location, MapKit and Google Map</li>
+<li>XMPP & WebRTC protocols </li>
 <li>Realm, Firebase, SQLite and MySQL Databases</li>
 <li>Git Version Control System</li>
 <li>Adobe XD and Photoshop Designing tools </li>
