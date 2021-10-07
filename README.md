@@ -5,7 +5,7 @@
 </p>
 <p>
 
-Mobile Application Developer with +3 years of hands-on experience in creating unique and modern Mobile applications for IOS and Android Devices. 
+Mobile Application Developer with +4 years of hands-on experience in creating unique and modern Mobile applications for IOS and Android Devices. 
 </p>
 
 
@@ -32,7 +32,7 @@ PRIMARY SKILLS
     <a href="https://www.linkedin.com/in/muisawe"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 <p align="center">
-<a href="https://stackoverflow.com/users/7607589/moumen-alisawe"><img src="https://img.shields.io/badge/StackOverflow-1.9k-F27F33?logo=stackoverflow"/></a>
+<a href="https://stackoverflow.com/users/7607589/moumen-alisawe"><img src="https://img.shields.io/badge/StackOverflow-2.5k-F27F33?logo=stackoverflow"/></a>
 </p>
 
   
