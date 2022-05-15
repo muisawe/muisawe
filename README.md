@@ -29,8 +29,7 @@ PRIMARY SKILLS
 
 <p align="center">
 
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=970567464784">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
+     via whatsapp https://wa.me/970567464784
     <a href="https://www.linkedin.com/in/muisawe"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 <p align="center">
