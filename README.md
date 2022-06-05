@@ -5,7 +5,7 @@
 </p>
 <p>
 
-Mobile Application Developer with +4 years of hands-on experience in creating unique and modern Mobile applications for IOS and Android Devices. 
+Mobile Application Developer with +2 years of hands-on experience in creating unique and modern Mobile applications for IOS and Android Devices. 
 </p>
 
 
